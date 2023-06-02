@@ -1,0 +1,3 @@
+[submodule "mymdpapp"]
+	path = mymdpapp
+	url = ./mymdpapp
